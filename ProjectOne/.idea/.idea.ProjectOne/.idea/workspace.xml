@@ -11,14 +11,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/StartBehaviour.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
-                <marker date="1567114120598" expanded="false" signature="6:78" ph="..." />
-                <marker date="1567114120598" expanded="true" signature="123:199" ph="{...}" />
-                <marker date="1567114120598" expanded="true" signature="142:193" ph="{...}" />
+                <marker date="1567545073025" expanded="false" signature="6:78" ph="..." />
+                <marker date="1567545073025" expanded="true" signature="163:506" ph="{...}" />
+                <marker date="1567545073025" expanded="true" signature="374:423" ph="{...}" />
+                <marker date="1567545073025" expanded="true" signature="441:462" ph="{...}" />
+                <marker date="1567545073025" expanded="true" signature="483:504" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -27,14 +29,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PracticeBehaviourScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
               <folding>
-                <marker date="1567194038432" expanded="false" signature="6:78" ph="..." />
-                <marker date="1567194038432" expanded="true" signature="132:412" ph="{...}" />
-                <marker date="1567194038432" expanded="true" signature="192:250" ph="{...}" />
-                <marker date="1567194038432" expanded="true" signature="269:410" ph="{...}" />
-                <marker date="1567194038432" expanded="true" signature="316:404" ph="{...}" />
+                <marker date="1567195358799" expanded="true" signature="132:416" ph="{...}" />
+                <marker date="1567195358799" expanded="true" signature="192:250" ph="{...}" />
+                <marker date="1567195358799" expanded="true" signature="269:414" ph="{...}" />
+                <marker date="1567195358799" expanded="true" signature="316:404" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -48,6 +49,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/StartBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PracticeBehaviourScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,13 +57,14 @@
         <option value="$PROJECT_DIR$/Assets/StartScript.cs" />
         <option value="$PROJECT_DIR$/Assets/StartBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/PracticeBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Variables.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="541" />
-    <option name="y" value="101" />
-    <option name="width" value="980" />
+    <option name="x" value="697" />
+    <option name="y" value="12" />
+    <option name="width" value="1154" />
     <option name="height" value="955" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,11 +73,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
@@ -128,11 +131,14 @@
       <workItem from="1567030772365" duration="83000" />
       <workItem from="1567112008834" duration="3094000" />
       <workItem from="1567193846184" duration="571000" />
+      <workItem from="1567194873749" duration="1136000" />
+      <workItem from="1567543111672" duration="2512000" />
+      <workItem from="1567546317337" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4368000" />
+    <option name="totallyTimeSpent" value="8020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -144,9 +150,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="433" y="81" width="784" height="764" extended-state="0" />
+    <frame x="558" y="10" width="923" height="764" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27209944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24797219" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -197,26 +203,38 @@
     <entry file="file://$PROJECT_DIR$/Assets/StartScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/StartBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="153">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <marker date="1567114120598" expanded="false" signature="6:78" ph="..." />
             <marker date="1567114120598" expanded="true" signature="123:199" ph="{...}" />
             <marker date="1567114120598" expanded="true" signature="142:193" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <marker date="1567545073025" expanded="false" signature="6:78" ph="..." />
+            <marker date="1567545073025" expanded="true" signature="163:506" ph="{...}" />
+            <marker date="1567545073025" expanded="true" signature="374:423" ph="{...}" />
+            <marker date="1567545073025" expanded="true" signature="441:462" ph="{...}" />
+            <marker date="1567545073025" expanded="true" signature="483:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PracticeBehaviourScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
           <folding>
-            <marker date="1567194038432" expanded="false" signature="6:78" ph="..." />
-            <marker date="1567194038432" expanded="true" signature="132:412" ph="{...}" />
-            <marker date="1567194038432" expanded="true" signature="192:250" ph="{...}" />
-            <marker date="1567194038432" expanded="true" signature="269:410" ph="{...}" />
-            <marker date="1567194038432" expanded="true" signature="316:404" ph="{...}" />
+            <marker date="1567195358799" expanded="true" signature="132:416" ph="{...}" />
+            <marker date="1567195358799" expanded="true" signature="192:250" ph="{...}" />
+            <marker date="1567195358799" expanded="true" signature="269:414" ph="{...}" />
+            <marker date="1567195358799" expanded="true" signature="316:404" ph="{...}" />
           </folding>
         </state>
       </provider>
