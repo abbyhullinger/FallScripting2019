@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine;
 using UnityEngine.Events;
+
 
 public class Variables : MonoBehaviour
 {
@@ -12,13 +12,19 @@ public class Variables : MonoBehaviour
     public int firePower;
     public UnityEvent Event;
 
-    private void OnTriggerEnter(Collider other)
+    private void OnMouseExit()
     {
         Event.Invoke();
-            
     }
 
-    void Start()
+
+    // private void OnTriggerEnter(Collider other)
+    //{
+      //  Event.Invoke();
+       // }    
+
+
+  void Start()
     {
         
     }
