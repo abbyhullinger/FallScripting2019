@@ -9,7 +9,9 @@ public class Variables : MonoBehaviour
     public float floatValue = 5.5f;
     public int intValue = 20;
     public string stringValue = "Bob";
-    public int firePower;
+    public int firePower = 1;
+    public long longValue = 10;
+    public double doubleValue = 30;
     public UnityEvent Event;
 
     private void OnMouseExit()
@@ -25,13 +27,13 @@ public class Variables : MonoBehaviour
 
 
   void Start()
-    {
-        
-    }
+  {
+      
+  }
 
  
     void Update()
     {
-        
+       
     }
 }

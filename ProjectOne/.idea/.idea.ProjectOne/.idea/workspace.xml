@@ -14,14 +14,14 @@
         <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
-                <marker date="1567560561223" expanded="true" signature="6:104" ph="..." />
-                <marker date="1567560561223" expanded="true" signature="145:560" ph="{...}" />
-                <marker date="1567560561223" expanded="true" signature="339:375" ph="{...}" />
-                <marker date="1567560561223" expanded="true" signature="382:478" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-                <marker date="1567560561223" expanded="true" signature="495:516" ph="{...}" />
-                <marker date="1567560561223" expanded="true" signature="537:558" ph="{...}" />
+                <marker date="1567561885716" expanded="true" signature="6:104" ph="..." />
+                <marker date="1567561885716" expanded="true" signature="145:625" ph="{...}" />
+                <marker date="1567561885716" expanded="true" signature="411:447" ph="{...}" />
+                <marker date="1567561885716" expanded="true" signature="454:550" ph="/* private void OnTriggerEnter(Collider other) ... */" />
+                <marker date="1567561885716" expanded="true" signature="567:582" ph="{...}" />
+                <marker date="1567561885716" expanded="true" signature="603:623" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,8 +47,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="771" />
-    <option name="y" value="92" />
+    <option name="x" value="352" />
+    <option name="y" value="37" />
     <option name="width" value="1155" />
     <option name="height" value="955" />
   </component>
@@ -119,12 +119,12 @@
       <workItem from="1567194873749" duration="1136000" />
       <workItem from="1567543111672" duration="2512000" />
       <workItem from="1567546317337" duration="4000" />
-      <workItem from="1567559615054" duration="970000" />
+      <workItem from="1567559615054" duration="2315000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8990000" />
+    <option name="totallyTimeSpent" value="10335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -136,7 +136,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="617" y="74" width="924" height="764" extended-state="0" />
+    <frame x="282" y="30" width="924" height="764" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2534722" />
@@ -209,14 +209,14 @@
     <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <marker date="1567560561223" expanded="true" signature="6:104" ph="..." />
-            <marker date="1567560561223" expanded="true" signature="145:560" ph="{...}" />
-            <marker date="1567560561223" expanded="true" signature="339:375" ph="{...}" />
-            <marker date="1567560561223" expanded="true" signature="382:478" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-            <marker date="1567560561223" expanded="true" signature="495:516" ph="{...}" />
-            <marker date="1567560561223" expanded="true" signature="537:558" ph="{...}" />
+            <marker date="1567561885716" expanded="true" signature="6:104" ph="..." />
+            <marker date="1567561885716" expanded="true" signature="145:625" ph="{...}" />
+            <marker date="1567561885716" expanded="true" signature="411:447" ph="{...}" />
+            <marker date="1567561885716" expanded="true" signature="454:550" ph="/* private void OnTriggerEnter(Collider other) ... */" />
+            <marker date="1567561885716" expanded="true" signature="567:582" ph="{...}" />
+            <marker date="1567561885716" expanded="true" signature="603:623" ph="{...}" />
           </folding>
         </state>
       </provider>
