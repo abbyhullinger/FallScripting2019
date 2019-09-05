@@ -13,11 +13,14 @@ public class Variables : MonoBehaviour
     public long longValue = 10;
     public double doubleValue = 30;
     public UnityEvent Event;
+    
 
-    private void OnMouseExit()
-    {
-        Event.Invoke();
-    }
+    
+    
+   // private void OnMouseExit()
+   // {
+    //    Event.Invoke();
+    //}
 
 
     // private void OnTriggerEnter(Collider other)
@@ -31,9 +34,9 @@ public class Variables : MonoBehaviour
       
   }
 
- 
-    void Update()
-    {
-       
-    }
+
+  private void OnMouseDrag()
+  {
+      Event.Invoke();
+  }
 }
