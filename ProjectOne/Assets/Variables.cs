@@ -13,6 +13,7 @@ public class Variables : MonoBehaviour
     public long longValue = 10;
     public double doubleValue = 30;
     public UnityEvent Event;
+    public int charValue = 22; 
     
 
     
@@ -31,12 +32,12 @@ public class Variables : MonoBehaviour
 
   void Start()
   {
-      
-  }
-
-
-  private void OnMouseDrag()
-  {
       Event.Invoke();
   }
+
+
+ // private void OnMouseDrag()
+  //{
+  //    Event.Invoke();
+  //}
 }
