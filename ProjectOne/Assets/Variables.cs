@@ -16,11 +16,14 @@ public class Variables : MonoBehaviour
     public int charValue = 22;
 
 
-    private void OnMouseOver()
+    private void OnMouseOver() => Event.Invoke();
+
+    private void OnPreCull()
     {
         Event.Invoke();
-            
     }
+
+ 
 
 
     // private void OnTriggerEnter(Collider other)
