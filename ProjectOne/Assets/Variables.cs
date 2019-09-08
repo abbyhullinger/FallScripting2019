@@ -18,12 +18,10 @@ public class Variables : MonoBehaviour
 
     private void OnMouseOver() => Event.Invoke();
 
-    private void OnPreCull()
+    private void OnBecameVisible()
     {
         Event.Invoke();
     }
-
- 
 
 
     // private void OnTriggerEnter(Collider other)
