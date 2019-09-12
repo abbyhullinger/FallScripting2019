@@ -13,10 +13,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="323">
               <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
-                <marker date="1567905598393" expanded="false" signature="6:104" ph="..." />
                 <marker date="1567905598393" expanded="true" signature="145:712" ph="{...}" />
                 <marker date="1567905598393" expanded="true" signature="498:534" ph="{...}" />
                 <marker date="1567905598393" expanded="true" signature="541:632" ph="/* private void OnTriggerEnter(Collider other) ... */" />
@@ -29,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="153">
               <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
               <folding>
                 <marker date="1568150542894" expanded="true" signature="79:205" ph="{...}" />
@@ -42,13 +41,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding>
-                <marker date="1568262618368" expanded="false" signature="6:44" ph="..." />
-                <marker date="1568262618368" expanded="true" signature="88:362" ph="{...}" />
-                <marker date="1568262618368" expanded="true" signature="167:271" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-                <marker date="1568262618368" expanded="true" signature="317:360" ph="{...}" />
+                <marker date="1568319840321" expanded="true" signature="88:360" ph="{...}" />
+                <marker date="1568319840321" expanded="true" signature="169:261" ph="/* private void OnTriggerEnter(Collider other) ... */" />
+                <marker date="1568319840321" expanded="true" signature="309:358" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -78,10 +76,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="477" />
-    <option name="y" value="57" />
+    <option name="x" value="476" />
+    <option name="y" value="56" />
     <option name="width" value="1045" />
-    <option name="height" value="894" />
+    <option name="height" value="895" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -89,15 +87,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,11 +156,12 @@
       <workItem from="1567905506487" duration="201000" />
       <workItem from="1568147289351" duration="4166000" />
       <workItem from="1568262108068" duration="569000" />
+      <workItem from="1568319817271" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19322000" />
+    <option name="totallyTimeSpent" value="19345000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -174,7 +173,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="382" y="46" width="836" height="715" extended-state="0" />
+    <frame x="381" y="45" width="836" height="716" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038659792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -240,10 +240,9 @@
     <entry file="file://$PROJECT_DIR$/Assets/VacuumVariables.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Variables.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="323">
           <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding>
-            <marker date="1567905598393" expanded="false" signature="6:104" ph="..." />
             <marker date="1567905598393" expanded="true" signature="145:712" ph="{...}" />
             <marker date="1567905598393" expanded="true" signature="498:534" ph="{...}" />
             <marker date="1567905598393" expanded="true" signature="541:632" ph="/* private void OnTriggerEnter(Collider other) ... */" />
@@ -254,7 +253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="153">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
           <folding>
             <marker date="1568150542894" expanded="true" signature="79:205" ph="{...}" />
@@ -265,13 +264,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
-            <marker date="1568262618368" expanded="false" signature="6:44" ph="..." />
-            <marker date="1568262618368" expanded="true" signature="88:362" ph="{...}" />
-            <marker date="1568262618368" expanded="true" signature="167:271" ph="/* private void OnTriggerEnter(Collider other) ... */" />
-            <marker date="1568262618368" expanded="true" signature="317:360" ph="{...}" />
+            <marker date="1568319840321" expanded="true" signature="88:360" ph="{...}" />
+            <marker date="1568319840321" expanded="true" signature="169:261" ph="/* private void OnTriggerEnter(Collider other) ... */" />
+            <marker date="1568319840321" expanded="true" signature="309:358" ph="{...}" />
           </folding>
         </state>
       </provider>
