@@ -9,6 +9,7 @@
         <e p="BirdEvents.cs" t="Include" />
         <e p="CatClass.cs" t="Include" />
         <e p="DogClass.cs" t="Include" />
+        <e p="DoubleJumpMover.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="MouseE.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
