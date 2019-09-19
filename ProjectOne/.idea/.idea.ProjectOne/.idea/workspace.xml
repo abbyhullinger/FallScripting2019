@@ -11,24 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/PandaClass.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <marker date="1568522228894" expanded="false" signature="6:104" ph="..." />
-                <marker date="1568522228894" expanded="true" signature="145:254" ph="{...}" />
-                <marker date="1568522228894" expanded="true" signature="212:252" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Movement.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="155">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding>
                 <marker date="1568756686706" expanded="true" signature="57:623" ph="{...}" />
                 <marker date="1568756686706" expanded="true" signature="259:621" ph="{...}" />
@@ -40,18 +26,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/DoubleJumpMover.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/MovementAgain.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+            <state relative-caret-position="47">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
-                <marker date="1568864806075" expanded="false" signature="6:78" ph="..." />
-                <marker date="1568864806075" expanded="true" signature="124:881" ph="{...}" />
-                <marker date="1568864806075" expanded="true" signature="384:879" ph="{...}" />
-                <marker date="1568864806075" expanded="true" signature="484:539" ph="{...}" />
-                <marker date="1568864806075" expanded="true" signature="581:637" ph="{...}" />
-                <marker date="1568864806075" expanded="true" signature="650:697" ph="{...}" />
-                <marker date="1568864806075" expanded="true" signature="740:821" ph="{...}" />
+                <marker date="1568930127436" expanded="true" signature="6:44" ph="..." />
+                <marker date="1568930127436" expanded="true" signature="46:177" ph="/* this is the rewritten version of the Movement script for practice. ... */" />
+                <marker date="1568930127436" expanded="true" signature="268:1009" ph="{...}" />
+                <marker date="1568930127436" expanded="true" signature="504:574" ph="{...}" />
+                <marker date="1568930127436" expanded="true" signature="593:1007" ph="{...}" />
+                <marker date="1568930127436" expanded="true" signature="726:801" ph="{...}" />
+                <marker date="1568930127436" expanded="true" signature="870:951" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -70,10 +56,10 @@
     <setting file="file://$PROJECT_DIR$/Assets/MouseE.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CatClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DogClass.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DoubleJumpMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/PandaClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MovementAgain.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -95,14 +81,15 @@
         <option value="$PROJECT_DIR$/Assets/PandaClass.cs" />
         <option value="$PROJECT_DIR$/Assets/Movement.cs" />
         <option value="$PROJECT_DIR$/Assets/DoubleJumpMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovementAgain.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="801" />
-    <option name="y" value="86" />
+    <option name="x" value="762" />
+    <option name="y" value="91" />
     <option name="width" value="1045" />
-    <option name="height" value="924" />
+    <option name="height" value="925" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,14 +97,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -127,7 +114,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,11 +171,12 @@
       <workItem from="1568521826232" duration="465000" />
       <workItem from="1568751762749" duration="5044000" />
       <workItem from="1568863364909" duration="1530000" />
+      <workItem from="1568924432360" duration="5739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31265000" />
+    <option name="totallyTimeSpent" value="37004000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +188,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="641" y="69" width="836" height="739" extended-state="0" />
+    <frame x="610" y="73" width="836" height="740" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038659792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -364,9 +352,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Mover.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/PandaClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="187">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <marker date="1568522228894" expanded="false" signature="6:104" ph="..." />
@@ -376,13 +365,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Mover.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Assets/DoubleJumpMover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Movement.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="155">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding>
             <marker date="1568756686706" expanded="true" signature="57:623" ph="{...}" />
             <marker date="1568756686706" expanded="true" signature="259:621" ph="{...}" />
@@ -392,18 +385,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/DoubleJumpMover.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/MovementAgain.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        <state relative-caret-position="47">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
-            <marker date="1568864806075" expanded="false" signature="6:78" ph="..." />
-            <marker date="1568864806075" expanded="true" signature="124:881" ph="{...}" />
-            <marker date="1568864806075" expanded="true" signature="384:879" ph="{...}" />
-            <marker date="1568864806075" expanded="true" signature="484:539" ph="{...}" />
-            <marker date="1568864806075" expanded="true" signature="581:637" ph="{...}" />
-            <marker date="1568864806075" expanded="true" signature="650:697" ph="{...}" />
-            <marker date="1568864806075" expanded="true" signature="740:821" ph="{...}" />
+            <marker date="1568930127436" expanded="true" signature="6:44" ph="..." />
+            <marker date="1568930127436" expanded="true" signature="46:177" ph="/* this is the rewritten version of the Movement script for practice. ... */" />
+            <marker date="1568930127436" expanded="true" signature="268:1009" ph="{...}" />
+            <marker date="1568930127436" expanded="true" signature="504:574" ph="{...}" />
+            <marker date="1568930127436" expanded="true" signature="593:1007" ph="{...}" />
+            <marker date="1568930127436" expanded="true" signature="726:801" ph="{...}" />
+            <marker date="1568930127436" expanded="true" signature="870:951" ph="{...}" />
           </folding>
         </state>
       </provider>
