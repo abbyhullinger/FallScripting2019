@@ -11,13 +11,18 @@ public class MovementAgain : MonoBehaviour
     private int jumpCount;
     
     public float moveSpeed = 10f, gravity = 9.81f, jumpSpeed = 30f;
-    public int jumpCountMax = 2; 
+    public int jumpCountMax = 2;
+    public ParticleSystem particles;
 
     private void Start()
     {
         controller = GetComponent<CharacterController>();
     }
 
+    private void OnMouseDown()
+    {
+        particles.Emit(count:100);
+    }
     void Update()
     {
         position.x = moveSpeed*Input.GetAxis("Horizontal");
@@ -35,5 +40,10 @@ public class MovementAgain : MonoBehaviour
             jumpCount++;
         }
         controller.Move(position*Time.deltaTime);
+
+       
+
+        
+      
     }
 }
