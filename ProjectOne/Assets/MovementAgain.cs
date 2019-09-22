@@ -19,10 +19,6 @@ public class MovementAgain : MonoBehaviour
         controller = GetComponent<CharacterController>();
     }
 
-    private void OnMouseDown()
-    {
-        particles.Emit(count:100);
-    }
     void Update()
     {
         position.x = moveSpeed*Input.GetAxis("Horizontal");
@@ -38,6 +34,8 @@ public class MovementAgain : MonoBehaviour
         {
             position.y = jumpSpeed;
             jumpCount++;
+            particles.Emit(100);
+            
         }
         controller.Move(position*Time.deltaTime);
 
