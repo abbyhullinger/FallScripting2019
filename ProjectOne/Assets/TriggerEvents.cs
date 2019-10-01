@@ -11,7 +11,7 @@ public class TriggerEvents : MonoBehaviour
        triggerEvent.Invoke();
        
    }
-
+   
    // private void OnMouseDown(Collider other)
   //  {
   //      triggerEvent.Invoke();
