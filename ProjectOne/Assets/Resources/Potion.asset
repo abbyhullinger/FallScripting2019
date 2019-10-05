@@ -12,4 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83dd3307fbf0e9849ad811a8428c4366, type: 3}
   m_Name: Potion
   m_EditorClassIdentifier: 
-  value: 31
+  value: 5
+  minValue: 0
+  maxValue: 1

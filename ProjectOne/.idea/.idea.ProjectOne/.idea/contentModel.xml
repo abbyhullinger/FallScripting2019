@@ -16,6 +16,7 @@
         <e p="GetLights.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="IntData.cs" t="Include" />
+        <e p="MonoEvents.cs" t="Include" />
         <e p="MouseE.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="MovementAgain.cs" t="Include" />
@@ -24,6 +25,8 @@
         <e p="PlayerData.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
+        <e p="UIButtonController.cs" t="Include" />
+        <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
       </e>

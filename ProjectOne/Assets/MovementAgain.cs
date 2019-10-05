@@ -34,7 +34,6 @@ public class MovementAgain : MonoBehaviour
         {
             position.y = jumpSpeed;
             jumpCount++;
-            particles.Emit(100);
             
         }
         controller.Move(position*Time.deltaTime);
