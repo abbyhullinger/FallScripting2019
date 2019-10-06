@@ -25,7 +25,6 @@
         <e p="PlayerData.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
-        <e p="UIButtonController.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
