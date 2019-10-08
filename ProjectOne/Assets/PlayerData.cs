@@ -1,16 +1,17 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEditor;
+﻿using System.Linq.Expressions;
 using UnityEngine;
-using UnityEngine.XR.WSA;
 
 [CreateAssetMenu]
-public class PlayerData : ScriptableObject
+public class PlayerData : GameArtData
 {
-    public float value = 1f;
+   public WeaponData weapon; 
 
-    public void UpdateValue(float amount)
+    public void InstancePlayer()
     {
-        value += amount; 
+       var newPlayer = Instantiate(prefab);
+       var newSprite = newPlayer.GetComponentInChildren<SpriteRenderer>();
+       newSprite.sprite = sprite; 
+       newSprite.color = color;
+
     }
 }

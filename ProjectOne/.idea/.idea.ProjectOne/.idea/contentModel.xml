@@ -12,6 +12,7 @@
         <e p="DogClass.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
+        <e p="GameArtData.cs" t="Include" />
         <e p="GetFruit.cs" t="Include" />
         <e p="GetLights.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
@@ -28,6 +29,7 @@
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
+        <e p="WeaponData.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

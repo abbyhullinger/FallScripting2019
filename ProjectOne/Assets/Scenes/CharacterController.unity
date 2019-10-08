@@ -498,6 +498,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 11400000, guid: 6f2998a46963a814e85636ed1cc9903f, type: 2}
+        m_MethodName: InstancePlayer
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!4 &604299499
@@ -1170,25 +1181,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9953491aa26d24439a180be9d9fb948, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
-  theRadio: {fileID: 0}
 --- !u!1 &1496478447
 GameObject:
   m_ObjectHideFlags: 0
@@ -1460,7 +1452,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1641593004}
-  - component: {fileID: 1641593003}
   m_Layer: 0
   m_Name: InstancerCharacter
   m_TagString: Untagged
@@ -1468,22 +1459,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1641593003
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1641593002}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: feee22895fbbabd45a79f3fd94af3e41, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  playerName: Bobby
-  speed: 5
-  player: {fileID: 5300351092903221418, guid: e68f37c5e021a4e4e8f8c6f8d6afb63c, type: 3}
-  playerColor: {r: 0.52812386, g: 0.8679245, b: 0.54763144, a: 1}
 --- !u!4 &1641593004
 Transform:
   m_ObjectHideFlags: 0
