@@ -24,6 +24,7 @@
         <e p="PandaClass.cs" t="Include" />
         <e p="ParticleControl.cs" t="Include" />
         <e p="PlayerData.cs" t="Include" />
+        <e p="PotionData.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
