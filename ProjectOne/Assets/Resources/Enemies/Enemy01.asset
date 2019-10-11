@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7460add485eba479819636d161f6d6, type: 3}
+  m_Name: Enemy01
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: d17d0c0034e8285499ece292b651a062, type: 3}
+  spriteColor: {r: 1, g: 0, b: 0, a: 1}
+  prefab: {fileID: 5300351092903221418, guid: 7bb4ec854e0947740b933cea7ba96445, type: 3}
+  health: {fileID: 11400000, guid: 8b8eaa4b5963c38458c36a55643c0c93, type: 2}
+  enemyLocation: {x: 4, y: 2, z: 0}

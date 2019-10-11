@@ -19,5 +19,8 @@ MonoBehaviour:
   weapons:
   - {fileID: 11400000, guid: ed348cd1e66fe8f43a0f61a83f9ae9c4, type: 2}
   - {fileID: 11400000, guid: f50cd8a5fe1c94343a1ccb68231ffb49, type: 2}
+  potion:
+  - {fileID: 11400000, guid: 28cbd95983865e14a8c242f686d8bd6b, type: 2}
   shirt: {fileID: 11400000, guid: d97ff0c0d856ea24889e673a53f52fd3, type: 2}
   pants: {fileID: 11400000, guid: 590f9dc4bea7a5e419023ad3ca1a0b7f, type: 2}
+  hat: {fileID: 0}
