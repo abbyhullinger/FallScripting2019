@@ -7,7 +7,6 @@ using UnityEngine.XR.WSA;
 public class PotionData : GameArtData
 {
     public int potionPower = 10;
-    public Animation animation;
     public ParticleSystem particles;
     public WorldAnchor position; 
 }

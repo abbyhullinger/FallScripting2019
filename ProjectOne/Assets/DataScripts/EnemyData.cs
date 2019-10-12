@@ -6,4 +6,5 @@ public class EnemyData : GameArtData
 {
     public FloatData health;
     public Vector3 enemyLocation;
-}
+    public FloatData damage; 
+    }
