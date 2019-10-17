@@ -9,7 +9,7 @@
         <e p="ApplyForce.cs" t="Include" />
         <e p="BirdEvents.cs" t="Include" />
         <e p="CatClass.cs" t="Include" />
-        <e p="CineMachineController.cs" t="Include" />
+        <e p="CinemachineControllerRedo.cs" t="Include" />
         <e p="DataScripts" t="Include">
           <e p="ClothesData.cs" t="Include" />
           <e p="EnemyData.cs" t="Include" />
@@ -23,7 +23,6 @@
         </e>
         <e p="DogClass.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
-        <e p="GetFruit.cs" t="Include" />
         <e p="GetLights.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="IntData.cs" t="Include" />
@@ -31,7 +30,6 @@
         <e p="MouseE.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="MovementAgain.cs" t="Include" />
-        <e p="PandaClass.cs" t="Include" />
         <e p="ParticleControl.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
