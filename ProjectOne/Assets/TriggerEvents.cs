@@ -1,18 +1,16 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
-
+[RequireComponent(typeof(Collider))]
 public class TriggerEvents : MonoBehaviour
 {
+    private void Awake()
+    {
+        GetComponent<Collider>().isTrigger = true;
+    }
     public UnityEvent triggerEvent;
-  //  public UnityEvent mouseDown;
-    
-   private void OnTriggerEnter(Collider other)
+  
+  private void OnTriggerEnter(Collider other)
    {
        triggerEvent.Invoke();
    }
-   
-   // private void OnMouseDown(Collider other)
-  //  {
-  //      triggerEvent.Invoke();
-  //  }
 }

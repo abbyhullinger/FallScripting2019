@@ -15,6 +15,7 @@
           <e p="ClothesData.cs" t="Include" />
           <e p="EnemyData.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="GameArtCollection.cs" t="Include" />
           <e p="GameArtData.cs" t="Include" />
           <e p="PlatformData.cs" t="Include" />
           <e p="PlayerData.cs" t="Include" />
