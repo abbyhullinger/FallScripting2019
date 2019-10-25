@@ -86,11 +86,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <marker date="1571952089567" expanded="false" signature="6:78" ph="..." />
+                <marker date="1571952089567" expanded="true" signature="122:263" ph="{...}" />
+                <marker date="1571952089567" expanded="true" signature="264:450" ph="/* this is the parent script for playerdata and weapondata; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding>
+                <marker date="1571781240979" expanded="false" signature="6:44" ph="..." />
                 <marker date="1571781240979" expanded="true" signature="124:341" ph="{...}" />
                 <marker date="1571781240979" expanded="true" signature="151:214" ph="{...}" />
                 <marker date="1571781240979" expanded="true" signature="299:339" ph="{...}" />
@@ -99,31 +114,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtCollection.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            <state relative-caret-position="364">
+              <caret line="28" column="93" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="93" />
               <folding>
-                <marker date="1571780938745" expanded="false" signature="6:78" ph="..." />
-                <marker date="1571780938745" expanded="true" signature="122:285" ph="{...}" />
-                <marker date="1571780938745" expanded="true" signature="286:472" ph="/* this is the parent script for playerdata and weapondata; ... */" />
+                <marker date="1571954030156" expanded="true" signature="6:71" ph="..." />
+                <marker date="1571954030156" expanded="true" signature="139:603" ph="{...}" />
+                <marker date="1571954030156" expanded="true" signature="228:429" ph="{...}" />
+                <marker date="1571954030156" expanded="true" signature="289:423" ph="{...}" />
+                <marker date="1571954030156" expanded="true" signature="345:413" ph="{...}" />
+                <marker date="1571954030156" expanded="true" signature="463:600" ph="{...}" />
+                <marker date="1571954030156" expanded="true" signature="513:594" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtCollection.cs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Lists.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+            <state relative-caret-position="180">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <marker date="1571888480729" expanded="false" signature="6:97" ph="..." />
-                <marker date="1571888480729" expanded="true" signature="165:497" ph="{...}" />
-                <marker date="1571888480729" expanded="true" signature="257:490" ph="{...}" />
-                <marker date="1571888480729" expanded="true" signature="291:393" ph="{...}" />
-                <marker date="1571888480729" expanded="true" signature="422:483" ph="{...}" />
+                <marker date="1571950218411" expanded="false" signature="6:78" ph="..." />
+                <marker date="1571950218411" expanded="true" signature="135:326" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -172,6 +188,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/DataScripts/PlayerData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Functions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Variables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lists.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GetLights.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/ParticleControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -225,8 +242,9 @@
         <option value="$PROJECT_DIR$/Assets/Respawner.cs" />
         <option value="$PROJECT_DIR$/Assets/CollectionData.cs" />
         <option value="$PROJECT_DIR$/Assets/DataScripts/CollectionData.cs" />
-        <option value="$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/TriggerEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Lists.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs" />
         <option value="$PROJECT_DIR$/Assets/DataScripts/GameArtCollection.cs" />
       </list>
     </option>
@@ -336,11 +354,12 @@
       <workItem from="1571501418357" duration="525000" />
       <workItem from="1571775770909" duration="4086000" />
       <workItem from="1571887386641" duration="1096000" />
+      <workItem from="1571948921531" duration="4613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95972000" />
+    <option name="totallyTimeSpent" value="100585000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,7 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/StartScript.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/StartBehaviour.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -752,6 +770,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/IntData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1569963198176" expanded="false" signature="6:46" ph="..." />
+            <marker date="1569963198176" expanded="true" signature="105:214" ph="{...}" />
+            <marker date="1569963198176" expanded="true" signature="174:212" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Lists.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1571950218411" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571950218411" expanded="true" signature="135:326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          <folding>
+            <marker date="1571781240979" expanded="false" signature="6:44" ph="..." />
+            <marker date="1571781240979" expanded="true" signature="124:341" ph="{...}" />
+            <marker date="1571781240979" expanded="true" signature="151:214" ph="{...}" />
+            <marker date="1571781240979" expanded="true" signature="299:339" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MonoEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -765,49 +818,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
-            <marker date="1571780938745" expanded="false" signature="6:78" ph="..." />
-            <marker date="1571780938745" expanded="true" signature="122:285" ph="{...}" />
-            <marker date="1571780938745" expanded="true" signature="286:472" ph="/* this is the parent script for playerdata and weapondata; ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/IntData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1569963198176" expanded="false" signature="6:46" ph="..." />
-            <marker date="1569963198176" expanded="true" signature="105:214" ph="{...}" />
-            <marker date="1569963198176" expanded="true" signature="174:212" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <marker date="1571781240979" expanded="true" signature="124:341" ph="{...}" />
-            <marker date="1571781240979" expanded="true" signature="151:214" ph="{...}" />
-            <marker date="1571781240979" expanded="true" signature="299:339" ph="{...}" />
+            <marker date="1571952089567" expanded="false" signature="6:78" ph="..." />
+            <marker date="1571952089567" expanded="true" signature="122:263" ph="{...}" />
+            <marker date="1571952089567" expanded="true" signature="264:450" ph="/* this is the parent script for playerdata and weapondata; ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtCollection.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="364">
+          <caret line="28" column="93" selection-start-line="28" selection-start-column="93" selection-end-line="28" selection-end-column="93" />
           <folding>
-            <marker date="1571888480729" expanded="false" signature="6:97" ph="..." />
-            <marker date="1571888480729" expanded="true" signature="165:497" ph="{...}" />
-            <marker date="1571888480729" expanded="true" signature="257:490" ph="{...}" />
-            <marker date="1571888480729" expanded="true" signature="291:393" ph="{...}" />
-            <marker date="1571888480729" expanded="true" signature="422:483" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="6:71" ph="..." />
+            <marker date="1571954030156" expanded="true" signature="139:603" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="228:429" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="289:423" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="345:413" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="463:600" ph="{...}" />
+            <marker date="1571954030156" expanded="true" signature="513:594" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -7,7 +7,7 @@ public class GameArtData : ScriptableObject
     public Color spriteColor = Color.red;
     public GameObject prefab;
     public Animation animation;
-    public bool collected; 
+     
 
 }
 //this is the parent script for playerdata and weapondata;
