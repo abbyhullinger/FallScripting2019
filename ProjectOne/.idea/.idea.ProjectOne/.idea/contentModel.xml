@@ -29,6 +29,7 @@
         <e p="GetLights.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="IntData.cs" t="Include" />
+        <e p="KeyCollection.cs" t="Include" />
         <e p="Lists.cs" t="Include" />
         <e p="MonoEvents.cs" t="Include" />
         <e p="MouseE.cs" t="Include" />

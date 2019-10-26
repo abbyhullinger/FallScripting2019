@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 [CreateAssetMenu]
-public class GameArtCollectionRedo : MonoBehaviour
+public class GameArtCollectionRedo : ScriptableObject
 {
    public List<GameArtData> listCollection;
 
