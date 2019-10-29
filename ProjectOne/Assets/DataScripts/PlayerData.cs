@@ -5,7 +5,9 @@ using UnityEngine.Events;
 [CreateAssetMenu]
 public class PlayerData : GameArtData
 {
-   public UnityAction<GameObject> instanceAction; 
+   public UnityAction<GameObject> instanceAction;
+   public UnityEvent onRunEvent;
+   
    public FloatData health;
    public List<WeaponData> weapons;
    public List<PotionData> potion; 
@@ -20,5 +22,10 @@ public class PlayerData : GameArtData
       playerSprite.sprite = sprite;
       playerSprite.color = spriteColor;
       instanceAction(newPlayer); 
+   }
+
+   public void Run()
+   {
+      onRunEvent.Invoke();
    }
 }

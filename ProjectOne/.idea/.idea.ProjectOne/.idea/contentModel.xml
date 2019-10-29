@@ -24,7 +24,10 @@
           <e p="ShieldData.cs" t="Include" />
           <e p="WeaponData.cs" t="Include" />
         </e>
+        <e p="Debugger.cs" t="Include" />
+        <e p="DebuggerHandler.cs" t="Include" />
         <e p="DogClass.cs" t="Include" />
+        <e p="EnumSwitch.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
         <e p="GetLights.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
@@ -36,6 +39,7 @@
         <e p="Movement.cs" t="Include" />
         <e p="MovementAgain.cs" t="Include" />
         <e p="ParticleControl.cs" t="Include" />
+        <e p="PlayerHandler.cs" t="Include" />
         <e p="Respawner.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />

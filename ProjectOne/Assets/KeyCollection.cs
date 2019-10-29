@@ -25,6 +25,7 @@ public class KeyCollection : ScriptableObject
         if (key == true)
         {
             Destroy(GameObject.FindObjectOfType(door));
+            OnDestroy();
         }
     }
 }
