@@ -22,8 +22,9 @@ public class MovementAgain : MonoBehaviour
     void Update()
     {
         position.x = moveSpeed*Input.GetAxis("Horizontal");
+        position.z = moveSpeed * Input.GetAxis("Vertical");
         position.y -= gravity;
-
+//delete position z for other scene if you want;
         if (controller.isGrounded)
         {
             position.y = 0;
