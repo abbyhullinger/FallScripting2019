@@ -8,6 +8,7 @@
       <e p="Assets" t="Include">
         <e p="AI" t="Include">
           <e p="AgentHandler.cs" t="Include" />
+          <e p="EnemyHandler.cs" t="Include" />
         </e>
         <e p="ApplyForce.cs" t="Include" />
         <e p="BirdEvents.cs" t="Include" />
