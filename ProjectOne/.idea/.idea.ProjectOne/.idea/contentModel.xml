@@ -50,6 +50,7 @@
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
+        <e p="WeaponLoop.cs" t="Include" />
         <e p="WeaponsDebugger.cs" t="Include" />
         <e p="WeaponsHandler.cs" t="Include" />
       </e>
