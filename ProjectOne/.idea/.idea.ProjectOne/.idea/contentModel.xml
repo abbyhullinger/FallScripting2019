@@ -9,7 +9,9 @@
         <e p="AI" t="Include">
           <e p="AgentHandler.cs" t="Include" />
           <e p="AIData.cs" t="Include" />
+          <e p="AINav.cs" t="Include" />
           <e p="EnemyHandler.cs" t="Include" />
+          <e p="MouseEvents.cs" t="Include" />
           <e p="PlatformHandler.cs" t="Include" />
         </e>
         <e p="ApplyForce.cs" t="Include" />
@@ -28,6 +30,7 @@
           <e p="PlayerData.cs" t="Include" />
           <e p="PotionData.cs" t="Include" />
           <e p="ShieldData.cs" t="Include" />
+          <e p="Vector3Data.cs" t="Include" />
           <e p="WeaponData.cs" t="Include" />
         </e>
         <e p="Debugger.cs" t="Include" />
