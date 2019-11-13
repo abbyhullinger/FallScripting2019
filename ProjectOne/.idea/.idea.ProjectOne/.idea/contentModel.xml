@@ -20,6 +20,7 @@
         <e p="CatClass.cs" t="Include" />
         <e p="CharacterAnimator.cs" t="Include" />
         <e p="CinemachineControllerRedo.cs" t="Include" />
+        <e p="CodeRoutines.cs" t="Include" />
         <e p="DataScripts" t="Include">
           <e p="ClothesData.cs" t="Include" />
           <e p="EnemyData.cs" t="Include" />
