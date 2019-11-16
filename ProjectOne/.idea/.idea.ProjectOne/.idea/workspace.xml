@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Coroutines.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+            <state relative-caret-position="60">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
               <folding>
                 <marker date="1573711565702" expanded="false" signature="6:104" ph="..." />
                 <marker date="1573711565702" expanded="true" signature="145:882" ph="{...}" />
@@ -28,13 +28,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CoroutineClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
               <folding>
-                <marker date="1573771233252" expanded="false" signature="6:78" ph="..." />
+                <marker date="1573771233252" expanded="false" signature="6:147" ph="..." />
                 <marker date="1573771233252" expanded="true" signature="192:926" ph="{...}" />
                 <marker date="1573771233252" expanded="true" signature="414:505" ph="{...}" />
                 <marker date="1573771233252" expanded="true" signature="529:884" ph="{...}" />
@@ -46,16 +46,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/UICoroutine.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="25">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <marker date="1572384411870" expanded="false" signature="6:44" ph="..." />
-                <marker date="1572384411870" expanded="true" signature="124:483" ph="{...}" />
-                <marker date="1572384411870" expanded="true" signature="151:214" ph="{...}" />
-                <marker date="1572384411870" expanded="true" signature="349:394" ph="{...}" />
-                <marker date="1572384411870" expanded="true" signature="440:481" ph="{...}" />
+                <marker date="1573877752717" expanded="false" signature="6:78" ph="..." />
+                <marker date="1573877752717" expanded="true" signature="146:872" ph="{...}" />
+                <marker date="1573877752717" expanded="true" signature="345:403" ph="{...}" />
+                <marker date="1573877752717" expanded="true" signature="436:488" ph="{...}" />
+                <marker date="1573877752717" expanded="true" signature="520:870" ph="{...}" />
+                <marker date="1573877752717" expanded="true" signature="584:694" ph="{...}" />
+                <marker date="1573877752717" expanded="true" signature="718:828" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -175,6 +178,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/AI/AgentHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AI/EnemyHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EnumSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UICoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CharacterAnimator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DataScripts/PlatformData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BirdEvents.cs" root0="FORCE_HIGHLIGHTING" />
@@ -221,7 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/MonoEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/UITextController.cs" />
         <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
@@ -272,12 +275,13 @@
         <option value="$PROJECT_DIR$/Assets/CodeRoutines.cs" />
         <option value="$PROJECT_DIR$/Assets/Coroutines.cs" />
         <option value="$PROJECT_DIR$/Assets/CoroutineClass.cs" />
+        <option value="$PROJECT_DIR$/Assets/UICoroutine.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="446" />
-    <option name="y" value="70" />
+    <option name="x" value="148" />
+    <option name="y" value="141" />
     <option name="width" value="1045" />
     <option name="height" value="920" />
   </component>
@@ -408,11 +412,12 @@
       <workItem from="1573593231085" duration="5844000" />
       <workItem from="1573701957018" duration="1544000" />
       <workItem from="1573767179631" duration="4247000" />
+      <workItem from="1573875458049" duration="2016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141416000" />
+    <option name="totallyTimeSpent" value="143432000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,7 +429,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="357" y="56" width="836" height="736" extended-state="0" />
+    <frame x="119" y="113" width="836" height="736" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.038659792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -472,7 +477,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/ClothesData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/PotionData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/ShieldData.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/WeaponData.cs" />
@@ -870,6 +874,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1572384411870" expanded="false" signature="6:44" ph="..." />
+            <marker date="1572384411870" expanded="true" signature="124:483" ph="{...}" />
+            <marker date="1572384411870" expanded="true" signature="151:214" ph="{...}" />
+            <marker date="1572384411870" expanded="true" signature="349:394" ph="{...}" />
+            <marker date="1572384411870" expanded="true" signature="440:481" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/DataScripts/Vector3Data.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -956,23 +973,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TriggerEvents.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/CoroutineClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="30">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
-            <marker date="1572384411870" expanded="false" signature="6:44" ph="..." />
-            <marker date="1572384411870" expanded="true" signature="124:483" ph="{...}" />
-            <marker date="1572384411870" expanded="true" signature="151:214" ph="{...}" />
-            <marker date="1572384411870" expanded="true" signature="349:394" ph="{...}" />
-            <marker date="1572384411870" expanded="true" signature="440:481" ph="{...}" />
+            <marker date="1573771233252" expanded="false" signature="6:147" ph="..." />
+            <marker date="1573771233252" expanded="true" signature="192:926" ph="{...}" />
+            <marker date="1573771233252" expanded="true" signature="414:505" ph="{...}" />
+            <marker date="1573771233252" expanded="true" signature="529:884" ph="{...}" />
+            <marker date="1573771233252" expanded="true" signature="567:806" ph="{...}" />
+            <marker date="1573771233252" expanded="true" signature="836:869" ph="{...}" />
+            <marker date="1573771233252" expanded="true" signature="903:924" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Coroutines.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        <state relative-caret-position="60">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
           <folding>
             <marker date="1573711565702" expanded="false" signature="6:104" ph="..." />
             <marker date="1573711565702" expanded="true" signature="145:882" ph="{...}" />
@@ -985,18 +1005,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CoroutineClass.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/UICoroutine.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="25">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
-            <marker date="1573771233252" expanded="false" signature="6:78" ph="..." />
-            <marker date="1573771233252" expanded="true" signature="192:926" ph="{...}" />
-            <marker date="1573771233252" expanded="true" signature="414:505" ph="{...}" />
-            <marker date="1573771233252" expanded="true" signature="529:884" ph="{...}" />
-            <marker date="1573771233252" expanded="true" signature="567:806" ph="{...}" />
-            <marker date="1573771233252" expanded="true" signature="836:869" ph="{...}" />
-            <marker date="1573771233252" expanded="true" signature="903:924" ph="{...}" />
+            <marker date="1573877752717" expanded="false" signature="6:78" ph="..." />
+            <marker date="1573877752717" expanded="true" signature="146:872" ph="{...}" />
+            <marker date="1573877752717" expanded="true" signature="345:403" ph="{...}" />
+            <marker date="1573877752717" expanded="true" signature="436:488" ph="{...}" />
+            <marker date="1573877752717" expanded="true" signature="520:870" ph="{...}" />
+            <marker date="1573877752717" expanded="true" signature="584:694" ph="{...}" />
+            <marker date="1573877752717" expanded="true" signature="718:828" ph="{...}" />
           </folding>
         </state>
       </provider>

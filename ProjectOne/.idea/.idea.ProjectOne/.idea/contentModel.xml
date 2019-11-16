@@ -56,6 +56,7 @@
         <e p="Respawner.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
+        <e p="UICoroutine.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
         <e p="UITextController.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
