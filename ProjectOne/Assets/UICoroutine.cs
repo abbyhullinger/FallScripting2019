@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UI;
 
 public class UICoroutine : MonoBehaviour
 {
@@ -10,10 +11,12 @@ public class UICoroutine : MonoBehaviour
     public int counter = 3;
     public bool canRun; 
     private WaitForSeconds wfsObj;
+    private Text textLabel;
 
     private void Awake()
     {
         wfsObj = new WaitForSeconds(seconds);
+        textLabel = GetComponent<Text>();
     }
 
     public void CallCoroutine()
