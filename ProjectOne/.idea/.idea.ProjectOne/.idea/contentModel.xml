@@ -15,6 +15,9 @@
           <e p="MouseEvents.cs" t="Include" />
           <e p="PlatformHandler.cs" t="Include" />
         </e>
+        <e p="Animation" t="Include">
+          <e p="ButtonInput.cs" t="Include" />
+        </e>
         <e p="ApplyForce.cs" t="Include" />
         <e p="BirdEvents.cs" t="Include" />
         <e p="CatClass.cs" t="Include" />
