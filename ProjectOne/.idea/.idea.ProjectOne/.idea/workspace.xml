@@ -11,24 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UICoroutine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-              <folding>
-                <marker date="1574198559774" expanded="false" signature="6:126" ph="..." />
-                <marker date="1574198559774" expanded="true" signature="168:964" ph="{...}" />
-                <marker date="1574198559774" expanded="true" signature="395:495" ph="{...}" />
-                <marker date="1574198559774" expanded="true" signature="528:580" ph="{...}" />
-                <marker date="1574198559774" expanded="true" signature="612:962" ph="{...}" />
-                <marker date="1574198559774" expanded="true" signature="676:786" ph="{...}" />
-                <marker date="1574198559774" expanded="true" signature="810:920" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Animation/ButtonInput.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -44,28 +26,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/UITextController.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/StatesBehaviour.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="75">
+              <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
               <folding>
-                <marker date="1570138217590" expanded="false" signature="6:66" ph="..." />
-                <marker date="1570138217590" expanded="true" signature="146:360" ph="{...}" />
-                <marker date="1570138217590" expanded="true" signature="218:278" ph="{...}" />
-                <marker date="1570138217590" expanded="true" signature="295:358" ph="{...}" />
+                <marker date="1574375686505" expanded="false" signature="6:78" ph="..." />
+                <marker date="1574375686505" expanded="true" signature="158:1510" ph="{...}" />
+                <marker date="1574375686505" expanded="true" signature="441:496" ph="{...}" />
+                <marker date="1574375686505" expanded="true" signature="699:746" ph="{...}" />
+                <marker date="1574375686505" expanded="true" signature="953:998" ph="{...}" />
+                <marker date="1574375686505" expanded="true" signature="1004:1508" ph="/* OnStateMove is called right after Animator.OnAnimatorMove() ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/DataScripts/Vector3Data.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Animation/GameAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1572991946612" expanded="false" signature="6:78" ph="..." />
-                <marker date="1572991946612" expanded="true" signature="141:182" ph="{...}" />
+                <marker date="1574376462843" expanded="true" signature="6:78" ph="..." />
+                <marker date="1574376462843" expanded="true" signature="165:251" ph="{...}" />
+                <marker date="1574376462843" expanded="true" signature="219:249" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Animation/GameActionHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1574376651193" expanded="false" signature="6:78" ph="..." />
+                <marker date="1574376651193" expanded="true" signature="152:381" ph="{...}" />
+                <marker date="1574376651193" expanded="true" signature="245:303" ph="{...}" />
+                <marker date="1574376651193" expanded="true" signature="335:378" ph="{...}" />
+                <marker date="1574376651193" expanded="true" signature="382:561" ph="/* this can handle any incoming things, the animation statemachine will fire off game action ... */" />
               </folding>
             </state>
           </provider>
@@ -164,8 +165,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Animation/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DebuggerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIImageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Animation/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DataScripts/GameArtData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CodeRoutines.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/CinemachineControllerRedo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -214,15 +217,13 @@
     <setting file="file://$PROJECT_DIR$/Assets/PlayerHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WeaponLoop.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/WeaponsHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/StatesBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UITextController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/AI/AINav.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/FloatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/UIImageController.cs" />
-        <option value="$PROJECT_DIR$/Assets/AudioStarter.cs" />
         <option value="$PROJECT_DIR$/Assets/UIButtonController.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioController.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerData.cs" />
@@ -271,12 +272,15 @@
         <option value="$PROJECT_DIR$/Assets/CoroutineClass.cs" />
         <option value="$PROJECT_DIR$/Assets/UICoroutine.cs" />
         <option value="$PROJECT_DIR$/Assets/Animation/ButtonInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/StatesBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animation/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Animation/GameActionHandler.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="475" />
-    <option name="y" value="97" />
+    <option name="x" value="238" />
+    <option name="y" value="102" />
     <option name="width" value="1045" />
     <option name="height" value="920" />
   </component>
@@ -291,10 +295,10 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,11 +415,12 @@
       <workItem from="1573967200672" duration="560000" />
       <workItem from="1574198381796" duration="1452000" />
       <workItem from="1574308079338" duration="471000" />
+      <workItem from="1574371150791" duration="2615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145915000" />
+    <option name="totallyTimeSpent" value="148530000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,7 +432,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="380" y="78" width="836" height="736" extended-state="0" />
+    <frame x="191" y="82" width="836" height="736" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.038659792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -475,20 +480,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/WeaponData.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/CineMachineController.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Gun.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/DataScripts/EnemyData.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1570897902687" expanded="false" signature="6:78" ph="..." />
-            <marker date="1570897902687" expanded="true" signature="133:234" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CharacterAnimator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1039,6 +1030,50 @@
             <marker date="1574203837823" expanded="true" signature="86:282" ph="{...}" />
             <marker date="1574203837823" expanded="true" signature="171:280" ph="{...}" />
             <marker date="1574203837823" expanded="true" signature="221:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Animation/GameStates.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/StatesBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="72" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+          <folding>
+            <marker date="1574375686505" expanded="false" signature="6:78" ph="..." />
+            <marker date="1574375686505" expanded="true" signature="158:1510" ph="{...}" />
+            <marker date="1574375686505" expanded="true" signature="441:496" ph="{...}" />
+            <marker date="1574375686505" expanded="true" signature="699:746" ph="{...}" />
+            <marker date="1574375686505" expanded="true" signature="953:998" ph="{...}" />
+            <marker date="1574375686505" expanded="true" signature="1004:1508" ph="/* OnStateMove is called right after Animator.OnAnimatorMove() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Animation/GameAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1574376462843" expanded="true" signature="6:78" ph="..." />
+            <marker date="1574376462843" expanded="true" signature="165:251" ph="{...}" />
+            <marker date="1574376462843" expanded="true" signature="219:249" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Animation/GameActionHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1574376651193" expanded="false" signature="6:78" ph="..." />
+            <marker date="1574376651193" expanded="true" signature="152:381" ph="{...}" />
+            <marker date="1574376651193" expanded="true" signature="245:303" ph="{...}" />
+            <marker date="1574376651193" expanded="true" signature="335:378" ph="{...}" />
+            <marker date="1574376651193" expanded="true" signature="382:561" ph="/* this can handle any incoming things, the animation statemachine will fire off game action ... */" />
           </folding>
         </state>
       </provider>

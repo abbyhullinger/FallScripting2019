@@ -17,6 +17,8 @@
         </e>
         <e p="Animation" t="Include">
           <e p="ButtonInput.cs" t="Include" />
+          <e p="GameAction.cs" t="Include" />
+          <e p="GameActionHandler.cs" t="Include" />
         </e>
         <e p="ApplyForce.cs" t="Include" />
         <e p="BirdEvents.cs" t="Include" />
@@ -58,6 +60,7 @@
         <e p="PlayerHandler.cs" t="Include" />
         <e p="Respawner.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
+        <e p="StatesBehaviour.cs" t="Include" />
         <e p="TriggerEvents.cs" t="Include" />
         <e p="UICoroutine.cs" t="Include" />
         <e p="UIImageController.cs" t="Include" />
