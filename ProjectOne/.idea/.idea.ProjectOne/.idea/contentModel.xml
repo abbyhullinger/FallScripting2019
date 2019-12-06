@@ -60,6 +60,7 @@
         <e p="MovementAgain.cs" t="Include" />
         <e p="ParticleControl.cs" t="Include" />
         <e p="PlayerHandler.cs" t="Include" />
+        <e p="RapidFire.cs" t="Include" />
         <e p="Respawner.cs" t="Include" />
         <e p="SelfDestruct.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
