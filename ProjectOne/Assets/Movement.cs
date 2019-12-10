@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     private CharacterController controller;
     private int jumpCount;
     
-    public float moveSpeed = 25f, gravity = 0.001f, jumpSpeed = 30f;
+    public float moveSpeed = 15f, gravity = 0.001f, jumpSpeed = 30f;
     public int jumpCountMax = 5;
     public ParticleSystem particles;
 
