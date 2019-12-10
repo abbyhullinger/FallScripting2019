@@ -50,11 +50,14 @@
         <e p="FireWeapons.cs" t="Include" />
         <e p="Flip.cs" t="Include" />
         <e p="Functions.cs" t="Include" />
+        <e p="GetHealth.cs" t="Include" />
         <e p="GetLights.cs" t="Include" />
+        <e p="HealthSystem.cs" t="Include" />
         <e p="IfStatements.cs" t="Include" />
         <e p="IntData.cs" t="Include" />
         <e p="KeyCollection.cs" t="Include" />
         <e p="Lists.cs" t="Include" />
+        <e p="LoseHealth.cs" t="Include" />
         <e p="MonoEvents.cs" t="Include" />
         <e p="MouseE.cs" t="Include" />
         <e p="Movement.cs" t="Include" />

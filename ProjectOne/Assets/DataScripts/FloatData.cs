@@ -5,7 +5,7 @@ public class FloatData : ScriptableObject
 {
     public float value = 1f;
     public float minValue = 0;
-    public float maxValue = 1f;
+    public float maxValue = 10f;
 
     public void UpdateValue(float amount)
     {
