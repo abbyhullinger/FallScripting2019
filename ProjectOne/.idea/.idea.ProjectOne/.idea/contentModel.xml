@@ -26,6 +26,7 @@
         <e p="CharacterAnimator.cs" t="Include" />
         <e p="CinemachineControllerRedo.cs" t="Include" />
         <e p="CodeRoutines.cs" t="Include" />
+        <e p="CollectGems.cs" t="Include" />
         <e p="CoroutineClass.cs" t="Include" />
         <e p="CoRoutines.cs" t="Include" />
         <e p="DataScripts" t="Include">
@@ -62,6 +63,7 @@
         <e p="PlayerHandler.cs" t="Include" />
         <e p="RapidFire.cs" t="Include" />
         <e p="Respawner.cs" t="Include" />
+        <e p="ScoringSystem.cs" t="Include" />
         <e p="SelfDestruct.cs" t="Include" />
         <e p="StartBehaviour.cs" t="Include" />
         <e p="StatesBehaviour.cs" t="Include" />

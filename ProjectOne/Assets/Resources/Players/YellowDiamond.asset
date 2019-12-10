@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 507f4c1903a7d394d877b7d8ea356740, type: 3}
   m_Name: YellowDiamond
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: d17d0c0034e8285499ece292b651a062, type: 3}
-  spriteColor: {r: 0.9716981, g: 0.95934474, b: 0.24292453, a: 1}
+  sprite: {fileID: 21300000, guid: 5d35653fc6cd11a46938e044a60cb198, type: 3}
+  spriteColor: {r: 0.35924706, g: 0.55901796, b: 0.6509434, a: 1}
   prefab: {fileID: 5300351092903221418, guid: e68f37c5e021a4e4e8f8c6f8d6afb63c, type: 3}
+  animation: {fileID: 0}
+  onRunEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
   health: {fileID: 11400000, guid: 8b8eaa4b5963c38458c36a55643c0c93, type: 2}
   weapons:
   - {fileID: 11400000, guid: ed348cd1e66fe8f43a0f61a83f9ae9c4, type: 2}
